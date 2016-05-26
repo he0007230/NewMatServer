@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<Root>
+  <Applications>
+    <MatClient>
+      <name>封条管理程序</name>
+      <version>0000000000</version>
+      <wince_path>\Program Files\MatClient\MatClient.exe</wince_path>
+      <pc_path>D:\MatServer\Applications\MatClient\MatClient</pc_path>
+      <reload_interval>30</reload_interval>
+    </MatClient>
+    <GoodsHandle>
+      <name>商品日期监控</name>
+      <version>0000000000</version>
+      <wince_path>\Program Files\GoodsHandle\GoodsHandle.exe</wince_path>
+      <pc_path>D:\MatServer\Applications\GoodsHandle\GoodsHandle</pc_path>
+    </GoodsHandle>
+    <TurnoverClient>
+      <name>周转处理程序</name>
+      <version>0000000000</version>
+      <wince_path>\Program Files\TurnoverClient\TurnoverClient.exe</wince_path>
+      <pc_path>D:\MatServer\Applications\TurnoverClient\TurnoverClient</pc_path>
+    </TurnoverClient>
+    <TallyClient>
+      <name>商场理货程序</name>
+      <version>0000000000</version>
+      <wince_path>\Program Files\TallyClient\TallyClient.exe</wince_path>
+      <pc_path>D:\MatServer\Applications\TallyClient\TallyClient</pc_path>
+    </TallyClient>
+  </Applications>
+  <System>
+    <name>系统配置</name>
+    <version>0000000000</version>
+    <wince_path>\Program Files\CONFIG.XML</wince_path>
+    <pc_path>D:\MatServer\CONFIG.XML</pc_path>
+    <stock_name>新桂分店</stock_name>
+    <stock_no>13</stock_no>
+    <server_ip>192.168.3.109</server_ip>
+    <server_port>10005</server_port>
+    <maxSessionTimeout>20</maxSessionTimeout>
+    <remoteServer>192.168.3.146</remoteServer>
+    <maxListener>5</maxListener>
+    <printName>58c151</printName>
+    <ttspaServer>192.168.3.147</ttspaServer>
+  </System>
+</Root>

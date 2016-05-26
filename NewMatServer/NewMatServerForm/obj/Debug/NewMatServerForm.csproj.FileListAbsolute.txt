@@ -1,0 +1,15 @@
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\obj\Debug\NewMatServerForm.csprojResolveAssemblyReference.cache
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\obj\Debug\NewMatServerForm.Properties.Resources.resources
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\obj\Debug\NewMatServerForm.csproj.GenerateResource.Cache
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\NewMatServerForm.exe
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\NewMatServerForm.pdb
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\AceNetFrameWork.dll
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\AceNetFrameWork.pdb
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\obj\Debug\NewMatServerForm.exe
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\obj\Debug\NewMatServerForm.pdb
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\LogHelper.dll
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\LogHelper.pdb
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\obj\Debug\NewMatServerForm.MainForm.resources
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\NewMatServerForm.exe.config
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\transprot.dll
+H:\work_bak\dotNet\NewMatServer\NewMatServerForm\bin\Debug\transprot.pdb

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="04/21/2016 10:23:12" ReportInfo.Modified="04/27/2016 16:07:57" ReportInfo.CreatorVersion="2014.4.8.0" PrintSettings.ShowDialog="false">
+  <ScriptText>using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Windows.Forms;
+using System.Drawing;
+using System.Data;
+using FastReport;
+using FastReport.Data;
+using FastReport.Dialog;
+using FastReport.Barcode;
+using FastReport.Table;
+using FastReport.Utils;
+
+namespace FastReport
+{
+  public class ReportScript
+  {
+
+    private void Table1_ManualBuild(object sender, EventArgs e)
+    {
+      //获取ＤａｔａSet 中表名为Table的数据源
+      DataSourceBase data1 = Report.GetDataSource(&quot;query1&quot;);
+      //data1.EnsureInit();
+      data1.Init();
+      //控件Table1打印第0行
+      Table1.PrintRow(0);
+      Table1.PrintColumns();
+      int L=0;
+      int B=0;
+      int index=1;
+      while(data1.HasMoreRows)
+      {
+        Table1.PrintRow(1);
+        Table1.PrintColumns();
+        if(Table1.ResultTable.Rows[index][0].Text==&quot;板&quot;)
+        {
+          B+=1;
+        }
+        else
+        {
+          L+=1;
+        }
+        index+=1;  
+        data1.Next();
+      }
+      data1.First();
+
+      Text6.Text=&quot;板数量:&quot;+B.ToString()+&quot;   笼数量:&quot;+L.ToString();
+    }
+    private void Text3_BeforePrint(object sender, EventArgs e)
+    {
+    }
+  }
+}         
+</ScriptText>
+  <Dictionary>
+    <TableDataSource Name="query1" ReferenceName="Data.query1" DataType="System.Int32" Enabled="true">
+      <Column Name="BOARD_NO" DataType="System.String" PropName="Column"/>
+      <Column Name="TRIP_NO" DataType="System.String" PropName="Column"/>
+      <Column Name="XM" DataType="System.String" PropName="Column"/>
+      <Column Name="STOCK_NAME" DataType="System.String" PropName="Column"/>
+      <Column Name="STATUS_NAME" DataType="System.String" PropName="Column"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="65" LeftMargin="3" TopMargin="3" RightMargin="3">
+    <PageHeaderBand Name="PageHeader1" Width="223.02" Height="18.9">
+      <TextObject Name="Text1" Left="37.8" Width="141.75" Height="18.9" Text="物资发出清单" Font="宋体, 15pt, style=Bold"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="22.9" Width="223.02" Height="56.7" CanGrow="true" CanShrink="true" DataSource="query1" CollectChildRows="true">
+      <TableObject Name="Table1" Left="13.23" Top="9.45" Width="170.1" Height="37.8" ManualBuildEvent="Table1_ManualBuild">
+        <TableColumn Name="Column1" Width="56.7"/>
+        <TableColumn Name="Column2" Width="113.4"/>
+        <TableRow Name="Row1">
+          <TableCell Name="Cell1" Border.Lines="All" Text="类型" HorzAlign="Center" VertAlign="Center" Font="宋体, 10.5pt"/>
+          <TableCell Name="Cell2" Border.Lines="All" Text="物资卡号" HorzAlign="Center" VertAlign="Center" Font="宋体, 10.5pt"/>
+        </TableRow>
+        <TableRow Name="Row2" MinHeight="18.9" MaxHeight="56.7" AutoSize="true">
+          <TableCell Name="Cell6" Border.Lines="All" Text="[query1.STATUS_NAME]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10.5pt"/>
+          <TableCell Name="Cell7" Border.Lines="All" Text="[query1.BOARD_NO]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10.5pt"/>
+        </TableRow>
+      </TableObject>
+      <ChildBand Name="Child1" Top="83.6" Width="223.02" Height="151.2">
+        <TextObject Name="Text6" Left="13.23" Top="9.45" Width="189" Height="18.9" VertAlign="Center" Font="宋体, 10.5pt"/>
+        <TextObject Name="Text5" Left="13.23" Top="37.8" Width="189" Height="18.9" Text="操作地点:[query1.STOCK_NAME]" Font="宋体, 10.5pt"/>
+        <TextObject Name="Text3" Left="13.23" Top="66.15" Width="189" Height="18.9" Text="操作人员:[query1.XM]" Font="宋体, 10.5pt"/>
+        <TextObject Name="Text4" Left="13.23" Top="94.5" Width="189" Height="18.9" Text="车程编号:[query1.TRIP_NO]" Font="宋体, 10.5pt"/>
+        <TextObject Name="Text2" Left="13.23" Top="122.85" Width="170.1" Height="18.9" Text="[Date]" HorzAlign="Right" Font="宋体, 10.5pt"/>
+      </ChildBand>
+    </DataBand>
+  </ReportPage>
+</Report>

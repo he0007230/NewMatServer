@@ -1,0 +1,10 @@
+H:\work_bak\dotNet\CCC\CCCTest\bin\Debug\CCCTest.exe.config
+H:\work_bak\dotNet\CCC\CCCTest\bin\Debug\CCCTest.exe
+H:\work_bak\dotNet\CCC\CCCTest\bin\Debug\CCCTest.pdb
+H:\work_bak\dotNet\CCC\CCCTest\bin\Debug\CCC.dll
+H:\work_bak\dotNet\CCC\CCCTest\bin\Debug\CCC.pdb
+H:\work_bak\dotNet\CCC\CCCTest\obj\Debug\CCCTest.csprojResolveAssemblyReference.cache
+H:\work_bak\dotNet\CCC\CCCTest\obj\Debug\CCCTest.exe
+H:\work_bak\dotNet\CCC\CCCTest\obj\Debug\CCCTest.pdb
+H:\work_bak\dotNet\CCC\CCCTest\bin\Debug\transprot.dll
+H:\work_bak\dotNet\CCC\CCCTest\bin\Debug\transprot.pdb
