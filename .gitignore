@@ -1,0 +1,7 @@
+*.exe
+*.pdb
+NewMatServerForm.exe.config
+NewMatServerForm.vshost.exe.config
+*.manifest
+CCCTest.vshost.exe.config
+CCCTest.exe.config
