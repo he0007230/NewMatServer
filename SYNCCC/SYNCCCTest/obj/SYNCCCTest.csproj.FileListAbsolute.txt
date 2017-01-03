@@ -1,9 +1,0 @@
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\bin\Debug\SYNCCCTest.exe
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\bin\Debug\SYNCCCTest.pdb
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\bin\Debug\SYNCCC.dll
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\bin\Debug\transprot.dll
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\bin\Debug\transprot.pdb
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\bin\Debug\SYNCCC.pdb
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\obj\Debug\ResolveAssemblyReference.cache
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\obj\Debug\SYNCCCTest.exe
-H:\work_bak\dotNet\SYNCCC\SYNCCCTest\obj\Debug\SYNCCCTest.pdb

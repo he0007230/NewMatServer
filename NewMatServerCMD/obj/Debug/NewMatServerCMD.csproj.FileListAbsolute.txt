@@ -1,0 +1,14 @@
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\NewMatServerCMD.exe.config
+H:\he0007230\NewMatServer\NewMatServerCMD\obj\Debug\NewMatServerCMD.csprojResolveAssemblyReference.cache
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\NewMatServerCMD.exe
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\NewMatServerCMD.pdb
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\ADOHelper.dll
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\CompactFormatterPlus.dll
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\FastReport.dll
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\ISerial.dll
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\LogHelper.dll
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\CompactFormatterPlus.pdb
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\ADOHelper.pdb
+H:\he0007230\NewMatServer\NewMatServerCMD\bin\Debug\ISerial.pdb
+H:\he0007230\NewMatServer\NewMatServerCMD\obj\Debug\NewMatServerCMD.exe
+H:\he0007230\NewMatServer\NewMatServerCMD\obj\Debug\NewMatServerCMD.pdb

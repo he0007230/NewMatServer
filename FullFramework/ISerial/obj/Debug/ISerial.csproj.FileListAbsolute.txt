@@ -1,0 +1,5 @@
+H:\he0007230\NewMatServer\FullFramework\ISerial\bin\Debug\ISerial.dll
+H:\he0007230\NewMatServer\FullFramework\ISerial\bin\Debug\ISerial.pdb
+H:\he0007230\NewMatServer\FullFramework\ISerial\obj\Debug\ISerial.csprojResolveAssemblyReference.cache
+H:\he0007230\NewMatServer\FullFramework\ISerial\obj\Debug\ISerial.dll
+H:\he0007230\NewMatServer\FullFramework\ISerial\obj\Debug\ISerial.pdb

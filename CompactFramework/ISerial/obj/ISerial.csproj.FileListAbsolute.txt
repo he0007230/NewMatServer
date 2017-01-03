@@ -1,0 +1,15 @@
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\bin\Release\ISerial.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\bin\Release\ISerial.pdb
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\obj\Release\ResolveAssemblyReference.cache
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\obj\Release\ISerial.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\obj\Release\ISerial.pdb
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\bin\Debug\ISerial.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\bin\Debug\ISerial.pdb
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\obj\Debug\ResolveAssemblyReference.cache
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\obj\Debug\ISerial.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ISerial\obj\Debug\ISerial.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ISerial\bin\Debug\ISerial.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ISerial\bin\Debug\ISerial.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ISerial\obj\Debug\ResolveAssemblyReference.cache
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ISerial\obj\Debug\ISerial.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ISerial\obj\Debug\ISerial.pdb

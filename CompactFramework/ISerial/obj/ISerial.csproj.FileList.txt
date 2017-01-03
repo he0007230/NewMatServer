@@ -1,0 +1,10 @@
+bin\Debug\ISerial.dll
+bin\Debug\ISerial.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ISerial.dll
+obj\Debug\ISerial.pdb
+bin\Release\ISerial.dll
+bin\Release\ISerial.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ISerial.dll
+obj\Release\ISerial.pdb

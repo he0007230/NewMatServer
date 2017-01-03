@@ -1,5 +1,0 @@
-H:\work_bak\dotNet\CCC\CCC\bin\Debug\CCC.dll
-H:\work_bak\dotNet\CCC\CCC\bin\Debug\CCC.pdb
-H:\work_bak\dotNet\CCC\CCC\obj\Debug\CCC.dll
-H:\work_bak\dotNet\CCC\CCC\obj\Debug\CCC.pdb
-H:\work_bak\dotNet\CCC\CCC\obj\Debug\CCC.csprojResolveAssemblyReference.cache

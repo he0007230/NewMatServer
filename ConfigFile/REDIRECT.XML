@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <point Name="封条操作" ID="1">
-    <funcName>UpdateClientConfig</funcName>
+    <funcName>nlscan_pkg</funcName>
     <connStr>ttmatConnStr</connStr>
     <pkgName>ttmatPkgName</pkgName>
     <pflag>1</pflag> 
-    <isCache>N</isCache>
+    <isCache>Y</isCache>
     <area>1</area>
     <type>1</type>
     <command>1</command>   
@@ -45,7 +45,7 @@
     <connStr>ttmatConnStr</connStr>
     <pkgName>ttmatPkgName</pkgName>
     <pflag>5</pflag> 
-    <isCache>Y</isCache>   
+    <isCache>N</isCache>   
     <area>1</area>
     <type>1</type>
     <command>1</command> 
@@ -55,29 +55,279 @@
     <connStr>ttmatConnStr</connStr>
     <pkgName>ttmatPkgName</pkgName>
     <pflag>6</pflag> 
-    <isCache>Y</isCache> 
+    <isCache>N</isCache> 
     <area>1</area>
     <type>1</type>
     <command>1</command> 
   </point>  
-  <point Name="TallyClient登录" ID="9">
+  <point Name="检查商品日期" ID="7">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>ttshopNLScanPkgName</pkgName>
+    <pflag>7</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="记录旧商品日期" ID="8">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>ttshopNLScanPkgName</pkgName>
+    <pflag>8</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="GoodsHandle登录" ID="9">
     <funcName>nlscan_pkg</funcName>
     <connStr>ttshopConnStr</connStr>
     <pkgName>ttshopNLScanPkgName</pkgName>
     <pflag>9</pflag> 
-    <isCache>N</isCache>  
+    <isCache>N</isCache> 
     <area>1</area>
     <type>1</type>
     <command>1</command> 
-  </point>
-  <point Name="商场查询库存" ID="22">
+  </point> 
+  <point Name="实物商品资料录入" ID="10">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>ttshopNLScanPkgName</pkgName>
+    <pflag>10</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="撤销笼号" ID="11">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>7</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="物资盘点" ID="12">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>8</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="查询板货配送商场" ID="13">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>12</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="笼号绑定物资卡" ID="14">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>13</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="调场处理" ID="15">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>9</pflag> 
+    <isCache>Y</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="调场确认" ID="16">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>10</pflag> 
+    <isCache>Y</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="调场封条操作" ID="17">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>11</pflag> 
+    <isCache>Y</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="板货盘点更新" ID="18">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>14</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="取消盘点数" ID="19">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>15</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="修改物资卡对应的实物编号" ID="20">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>16</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="周转处理->司机确认" ID="21">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>17</pflag> 
+    <isCache>Y</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="商场补货->查询库存" ID="22">
     <funcName>nlscan_pkg</funcName>
     <connStr>ttshopConnStr</connStr>
     <pkgName>msgwpPkgName</pkgName>
     <pflag>2</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>2</command> 
+  </point> 
+  <point Name="商场补货->录入补货信息" ID="23">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>3</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="物资回流->扫描车程卡" ID="24">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>21</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="补货用户登录" ID="25">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>4</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="商场补货->查询配送数" ID="26">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>5</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>2</command> 
+  </point> 
+  <point Name="商场补货->验收散货" ID="27">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>6</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="商场补货->检查下架商品" ID="28">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>ttshopNLScanPkgName</pkgName>
+    <pflag>11</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="打印司机回执" ID="29">
+    <funcName>nlscan_pkg</funcName>
+    <connStr>ttmatLocalConnStr</connStr>
+    <pkgName>ttmatPkgName</pkgName>
+    <pflag>22</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>3</command>  
+  </point>
+  <point Name="检查程序版本" ID="96">
+    <funcName>CheckVersion</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>22</pflag> 
     <isCache>N</isCache>  
     <area>1</area>
     <type>2</type>
+    <command>1</command> 
+  </point>
+  <point Name="测试通信情况" ID="97">
+    <funcName>Test</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>2</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="更新配置文件" ID="98">
+    <funcName>UpdateClientConfig</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>2</pflag> 
+    <isCache>N</isCache> 
+    <area>1</area>
+    <type>1</type>
+    <command>1</command> 
+  </point> 
+  <point Name="更新程序" ID="99">
+    <funcName>UpdateApplication</funcName>
+    <connStr>ttshopConnStr</connStr>
+    <pkgName>msgwpPkgName</pkgName>
+    <pflag>22</pflag> 
+    <isCache>N</isCache>  
+    <area>1</area>
+    <type>1</type>
     <command>1</command> 
   </point>
 </Root>

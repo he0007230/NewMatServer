@@ -1,0 +1,4 @@
+H:\he0007230\NewMatServer\FullFramework\CompactFormmatterPlusADOHelper\bin\Debug\ADOHelper.dll
+H:\he0007230\NewMatServer\FullFramework\CompactFormmatterPlusADOHelper\bin\Debug\ADOHelper.pdb
+H:\he0007230\NewMatServer\FullFramework\CompactFormmatterPlusADOHelper\obj\Debug\ADOHelper.dll
+H:\he0007230\NewMatServer\FullFramework\CompactFormmatterPlusADOHelper\obj\Debug\ADOHelper.pdb

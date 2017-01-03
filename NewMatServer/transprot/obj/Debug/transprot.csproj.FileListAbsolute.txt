@@ -1,5 +1,0 @@
-H:\work_bak\dotNet\NewMatServer\transprot\bin\Debug\transprot.dll
-H:\work_bak\dotNet\NewMatServer\transprot\bin\Debug\transprot.pdb
-H:\work_bak\dotNet\NewMatServer\transprot\obj\Debug\transprot.dll
-H:\work_bak\dotNet\NewMatServer\transprot\obj\Debug\transprot.pdb
-H:\work_bak\dotNet\NewMatServer\transprot\obj\Debug\transprot.csprojResolveAssemblyReference.cache

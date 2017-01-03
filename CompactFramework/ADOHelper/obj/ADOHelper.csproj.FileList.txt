@@ -1,0 +1,5 @@
+bin\Debug\ADOHelper.dll
+bin\Debug\ADOHelper.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ADOHelper.dll
+obj\Debug\ADOHelper.pdb

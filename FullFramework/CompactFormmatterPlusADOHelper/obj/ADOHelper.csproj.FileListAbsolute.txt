@@ -1,0 +1,15 @@
+D:\DNR_Development\Remoting\DNRPlusDevel\ADOHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\DNR_Development\Remoting\DNRPlusDevel\ADOHelper\bin\Debug\ADOHelper.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\ADOHelper\bin\Debug\ADOHelper.pdb
+D:\DNR_Development\Remoting\DNRPlusDevel\ADOHelper\obj\Debug\ADOHelper.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\ADOHelper\obj\Debug\ADOHelper.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFormmatterPlusADOHelper\bin\Debug\ADOHelper.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFormmatterPlusADOHelper\bin\Debug\ADOHelper.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFormmatterPlusADOHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFormmatterPlusADOHelper\obj\Debug\ADOHelper.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFormmatterPlusADOHelper\obj\Debug\ADOHelper.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\FullFramework\CompactFormmatterPlusADOHelper\bin\Debug\ADOHelper.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\FullFramework\CompactFormmatterPlusADOHelper\bin\Debug\ADOHelper.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\FullFramework\CompactFormmatterPlusADOHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\FullFramework\CompactFormmatterPlusADOHelper\obj\Debug\ADOHelper.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\FullFramework\CompactFormmatterPlusADOHelper\obj\Debug\ADOHelper.pdb

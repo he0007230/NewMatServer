@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ISerial</name>
+    </assembly>
+    <members>
+        <member name="T:DotNetRemoting.status">
+            <summary>
+            status
+            </summary>
+        </member>
+        <member name="T:DotNetRemoting.commands">
+            <summary>
+            rpc commands
+            </summary>
+        </member>
+        <member name="T:DotNetRemoting.stat_type">
+            <summary>
+            for rpc mstly
+            </summary>
+        </member>
+        <member name="T:DotNetRemoting.IConnector">
+            <summary>
+            Interface for connector (default or the specific)
+            </summary>
+        </member>
+    </members>
+</doc>

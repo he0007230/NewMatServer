@@ -1,0 +1,412 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:ProjectSettings id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/FSStudio/FSStudio%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<DLLPath id="ref-3">D:\DNR_Development\Remoting\DNRPlusDevel\ISerial\bin\Debug\ISerial.dll</DLLPath>
+<ClassName id="ref-4">FSDefault</ClassName>
+<Nodes href="#ref-5"/>
+<PublicOnly>false</PublicOnly>
+<SerializableOnly>true</SerializableOnly>
+<ForDNR>true</ForDNR>
+</a1:ProjectSettings>
+<a2:Hashtable id="ref-5" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections">
+<LoadFactor>0.72</LoadFactor>
+<Version>90</Version>
+<Comparer xsi:null="1"/>
+<HashCodeProvider xsi:null="1"/>
+<HashSize>107</HashSize>
+<Keys href="#ref-6"/>
+<Values href="#ref-7"/>
+</a2:Hashtable>
+<SOAP-ENC:Array id="ref-6" SOAP-ENC:arrayType="xsd:anyType[43]">
+<item id="ref-8" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0CodeMessage|System_StringFalse/0</item>
+<item id="ref-9" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0Command|DotNetRemoting_commandsFalse/0</item>
+<item id="ref-10" xsi:type="SOAP-ENC:string">|DotNetRemoting_SerializerSetObjectFalse/0EncryptorsNames|System_String[]False/0</item>
+<item id="ref-11" xsi:type="SOAP-ENC:string">|DotNetRemoting_DrawingObjectFalse/0Color|System_ByteFalse/0</item>
+<item id="ref-12" xsi:type="SOAP-ENC:string">|DotNetRemoting_RpcObjectFalse/0CommandID|System_Int32False/0</item>
+<item id="ref-13" xsi:type="SOAP-ENC:string">|DotNetRemoting_GenericObjectFalse/0Port|System_Int32False/0</item>
+<item id="ref-14" xsi:type="SOAP-ENC:string">|DotNetRemoting_GenericObjectFalse/0Obj|System_ObjectFalse/0</item>
+<item id="ref-15" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0Tag|System_ObjectFalse/0</item>
+<item id="ref-16" xsi:type="SOAP-ENC:string">|DotNetRemoting_GenericObjectFalse/0Mess|System_StringFalse/0</item>
+<item id="ref-17" xsi:type="SOAP-ENC:string">|DotNetRemoting_RpcObjectFalse/0Args|System_Object[]False/0</item>
+<item id="ref-18" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0InObject|System_ObjectFalse/0</item>
+<item id="ref-19" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0OutObject|System_ObjectFalse/0</item>
+<item id="ref-20" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0ClientID|System_Int32False/0</item>
+<item id="ref-21" xsi:type="SOAP-ENC:string">|DotNetRemoting_DrawingObjectFalse/0Y|System_ByteFalse/0</item>
+<item id="ref-22" xsi:type="SOAP-ENC:string">|DotNetRemoting_GenericObjectFalse/0ID|System_Int32False/0</item>
+<item id="ref-23" xsi:type="SOAP-ENC:string">|DotNetRemoting_ComplexObjectFalse/4</item>
+<item id="ref-24" xsi:type="SOAP-ENC:string">|DotNetRemoting_ConnectionAliveObjectFalse/0Tag|System_ObjectFalse/0</item>
+<item id="ref-25" xsi:type="SOAP-ENC:string">|DotNetRemoting_SerializerSetObjectFalse/4</item>
+<item id="ref-26" xsi:type="SOAP-ENC:string">|System_StringFalse/0</item>
+<item id="ref-27" xsi:type="SOAP-ENC:string">|DotNetRemoting_GenericObjectFalse/4</item>
+<item id="ref-28" xsi:type="SOAP-ENC:string">|DotNetRemoting_stat_typeFalse/0</item>
+<item id="ref-29" xsi:type="SOAP-ENC:string">|DotNetRemoting_ConnectionAliveObjectFalse/0CodeMessage|System_StringFalse/0</item>
+<item id="ref-30" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0WithExecution|System_BooleanFalse/0</item>
+<item id="ref-31" xsi:type="SOAP-ENC:string">|DotNetRemoting_SerializerSetObjectFalse/0KeepConnectionAlivePeriod|System_Int32False/0</item>
+<item id="ref-32" xsi:type="SOAP-ENC:string">|DotNetRemoting_ComplexObjectFalse/0_SomeArrayList|System_Collections_ArrayListFalse/0</item>
+<item id="ref-33" xsi:type="SOAP-ENC:string">|DotNetRemoting_SerializerSetObjectFalse/0EncryptorsIndexes|System_Byte[]False/0</item>
+<item id="ref-34" xsi:type="SOAP-ENC:string">|DotNetRemoting_ComplexObjectFalse/0_SomeString|System_StringFalse/0</item>
+<item id="ref-35" xsi:type="SOAP-ENC:string">|DotNetRemoting_RpcObjectFalse/5</item>
+<item id="ref-36" xsi:type="SOAP-ENC:string">|DotNetRemoting_DrawingObjectFalse/0Start|System_BooleanFalse/0</item>
+<item id="ref-37" xsi:type="SOAP-ENC:string">|DotNetRemoting_statusFalse/0</item>
+<item id="ref-38" xsi:type="SOAP-ENC:string">|DotNetRemoting_ComplexObjectFalse/0_SomeDateTime|System_DateTimeFalse/0</item>
+<item id="ref-39" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/8</item>
+<item id="ref-40" xsi:type="SOAP-ENC:string">|DotNetRemoting_ConnectionAliveObjectFalse/2</item>
+<item id="ref-41" xsi:type="SOAP-ENC:string">|DotNetRemoting_SyncCommsObjectFalse/0Message|System_StringFalse/0</item>
+<item id="ref-42" xsi:type="SOAP-ENC:string">|DotNetRemoting_RpcObjectFalse/0OutObject|System_ObjectFalse/0</item>
+<item id="ref-43" xsi:type="SOAP-ENC:string">|DotNetRemoting_DrawingObjectFalse/4</item>
+<item id="ref-44" xsi:type="SOAP-ENC:string">|DotNetRemoting_DrawingObjectFalse/0X|System_ByteFalse/0</item>
+<item id="ref-45" xsi:type="SOAP-ENC:string">|DotNetRemoting_RpcObjectFalse/0ClassName|System_StringFalse/0</item>
+<item id="ref-46" xsi:type="SOAP-ENC:string">|DotNetRemoting_RpcObjectFalse/0MethodName|System_StringFalse/0</item>
+<item id="ref-47" xsi:type="SOAP-ENC:string">|DotNetRemoting_SerializerSetObjectFalse/0FormatterName|System_StringFalse/0</item>
+<item id="ref-48" xsi:type="SOAP-ENC:string">|DotNetRemoting_ComplexObjectFalse/0_SomeInt|System_Int32False/0</item>
+<item id="ref-49" xsi:type="SOAP-ENC:string">|DotNetRemoting_commandsFalse/0</item>
+<item id="ref-50" xsi:type="SOAP-ENC:string">|System_ByteFalse/0</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="xsd:anyType[43]">
+<item href="#ref-51"/>
+<item href="#ref-52"/>
+<item href="#ref-53"/>
+<item href="#ref-54"/>
+<item href="#ref-55"/>
+<item href="#ref-56"/>
+<item href="#ref-57"/>
+<item href="#ref-58"/>
+<item href="#ref-59"/>
+<item href="#ref-60"/>
+<item href="#ref-61"/>
+<item href="#ref-62"/>
+<item href="#ref-63"/>
+<item href="#ref-64"/>
+<item href="#ref-65"/>
+<item href="#ref-66"/>
+<item href="#ref-67"/>
+<item href="#ref-68"/>
+<item href="#ref-69"/>
+<item href="#ref-70"/>
+<item href="#ref-71"/>
+<item href="#ref-72"/>
+<item href="#ref-73"/>
+<item href="#ref-74"/>
+<item href="#ref-75"/>
+<item href="#ref-76"/>
+<item href="#ref-77"/>
+<item href="#ref-78"/>
+<item href="#ref-79"/>
+<item href="#ref-80"/>
+<item href="#ref-81"/>
+<item href="#ref-82"/>
+<item href="#ref-83"/>
+<item href="#ref-84"/>
+<item href="#ref-85"/>
+<item href="#ref-86"/>
+<item href="#ref-87"/>
+<item href="#ref-88"/>
+<item href="#ref-89"/>
+<item href="#ref-90"/>
+<item href="#ref-91"/>
+<item href="#ref-92"/>
+<item href="#ref-93"/>
+</SOAP-ENC:Array>
+<a4:NodeSettings id="ref-51" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-52" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-53" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-54" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-55" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-56" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-57" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-58" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-59" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-60" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-61" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-62" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-63" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-64" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-65" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-66" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-67" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-68" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-69" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-70" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-71" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-72" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-73" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-74" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-75" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-76" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-77" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-78" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-79" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-80" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-81" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-82" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-83" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-84" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-85" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-86" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-87" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-88" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-89" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-90" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-91" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-92" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+<a4:NodeSettings id="ref-93" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/DotNetRemoting/FSGenLib%2C%20Version%3D1.0.2885.18273%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ForceToUseOnlySerializable>false</ForceToUseOnlySerializable>
+<ForceToISerializable>false</ForceToISerializable>
+<GenerateCode>false</GenerateCode>
+<NodeState>1</NodeState>
+<Expanded>false</Expanded>
+</a4:NodeSettings>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

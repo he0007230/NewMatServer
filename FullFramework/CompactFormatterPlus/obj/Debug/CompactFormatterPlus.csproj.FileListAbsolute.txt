@@ -1,0 +1,9 @@
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\bin\Debug\CompactFormatterPlus.dll
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\bin\Debug\CompactFormatterPlus.pdb
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\bin\Debug\ADOHelper.dll
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\bin\Debug\ISerial.dll
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\bin\Debug\ADOHelper.pdb
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\bin\Debug\ISerial.pdb
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\obj\Debug\CompactFormatterPlus.csprojResolveAssemblyReference.cache
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\obj\Debug\CompactFormatterPlus.dll
+H:\he0007230\NewMatServer\FullFramework\CompactFormatterPlus\obj\Debug\CompactFormatterPlus.pdb

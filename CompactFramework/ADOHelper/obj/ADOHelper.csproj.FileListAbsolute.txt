@@ -1,0 +1,10 @@
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ADOHelper\bin\Debug\ADOHelper.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ADOHelper\bin\Debug\ADOHelper.pdb
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ADOHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ADOHelper\obj\Debug\ADOHelper.dll
+D:\DNR_Development\Remoting\DNRPlusDevel\MobileLib\ADOHelper\obj\Debug\ADOHelper.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ADOHelper\bin\Debug\ADOHelper.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ADOHelper\bin\Debug\ADOHelper.pdb
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ADOHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ADOHelper\obj\Debug\ADOHelper.dll
+D:\DNR_Development\Article\CodeForArticle\CompactFormatterPlusSolution\CompactFramework\ADOHelper\obj\Debug\ADOHelper.pdb
